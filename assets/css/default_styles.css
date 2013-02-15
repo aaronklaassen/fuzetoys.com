@@ -1,0 +1,108 @@
+/* ==================== TAG STYLES ===================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {background: transparent none repeat scroll 0 0; border: 0 none; margin: 0; padding: 0;}
+
+body, td, textarea, input, select {font-family: "Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif; font-size:11px; color: #555555; background-color: #ffffff;}
+
+body {padding: 0px 0px 0px;}
+
+body, textarea {line-height:1.4em;}
+input, select {line-height:1em;}
+p {margin:1em 0;}
+blockquote {margin:1em;}
+label {cursor:pointer;}
+li, dd {margin-bottom:6px;}
+p, li, dl, dd, dt {line-height:140%;}
+textarea, input, select {margin:1px;padding:3px;}
+
+h1 {color: #000000; display:block;font-size:2em;line-height: 1.3em;font-weight:bold;margin:0.67em 0;}
+h2 {color: #000000; display:block;font-size:1.5em;line-height: 1.3em;font-weight:bold;margin:0.83em 0;}
+h3 {color: #000000; display:block;font-size:1.17em;font-weight:bold;margin:1em 0;}
+h4 {color: #000000; display:block;font-size:1em;font-weight:bold;margin:0 0;}
+h5 {color: #000000; display:block;font-size:0.83em;font-weight:bold;margin:0 0;}
+h6 {color: #000000; display:block;font-size:0.67em;font-weight:bold;margin:0 0;}
+
+div.clear {clear: both;}
+
+img {border: 0px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px;}
+
+a {text-decoration: underline;}
+
+a:hover {text-decoration: none;}
+
+strong {color: #000000;}
+
+/* ===================================================*/
+
+/* ==================== DIV STYLES ===================*/
+
+div#page_wrapper {position: relative;}
+div.layout_center {position: relative; width: 905px; margin: 0px auto;}
+div#fuze_toys_logo {float: left; margin-top: 100px; position: relative; z-index: 20;}
+div#fuze_fade_logo {float: right; position: relative; z-index: 20;}
+
+div#main_image {position: absolute; z-index: 10; left: 140px; width: 765px; top: 142px; height: 435px; overflow: hidden;}
+div#main_image div#pure_pleasure {position: absolute; z-index: 100; margin-left: 595px; bottom: 0;}
+div#pure_pleasure2 {position: absolute; z-index: 100; right: 0; top: 560px;}
+
+
+/* ===================================================*/
+
+/* ==================== MENU STYLES ===================*/
+
+div#left_menu_holder {position: absolute; width: 140px; top: 210px;}
+
+ul.main_menu {list-style: none;}
+ul.main_menu li {margin-bottom: 0px;}
+ul.main_menu li a {font-weight: bold; color: #000000;  padding: 10px 0px 10px 10px; display: block; width: 130px; border-bottom: 1px solid #d2232a; text-decoration: none;}
+ul.main_menu li a:hover {color: #8A0E04;}
+
+div#pure_platinum {margin-top: 65px;}
+
+/* ===================================================*/
+
+
+/* ==================== CONTENT STYLES ===================*/
+
+div#body_content {position: absolute; top: 735px; width: 870px;}
+div#body_content div#written_content_holder {width: 735px; float: left;}
+div#body_content div#right_column {float: right; width: 150px; text-align: center;}
+
+/* ===================================================*/
+
+
+/* ==================== PRODUCT STYLES ===================*/
+
+div.product_holder {float: left; margin-top: 30px;}
+div.product_holder div.product_top_border {background-color: #d2232a; height: 1px; width: 135px;}
+div.product_holder div.product_text_holder {float: left; width: 300px; margin-right: 40px;}
+div.product_holder div.product_text_holder h2 {margin-bottom: 5px;}
+div.product_holder div.product_text_holder p.product_description {margin: 0px 0px 5px;}
+div.product_holder div.product_text_holder p.product_size {margin-top: 0px; color: #000000;}
+div.product_holder div.product_image_holder {float: left;}
+
+/* ===================================================*/
+
+
+/* ==================== FOOTER STYLES ===================*/
+
+div#footer_holder {position: relative; margin-top: 80px; padding-bottom: 40px;}
+div#footer_holder div#footer_top_border {position: relative; background-color: #d2232a; height: 1px; width: 135px;}
+div#footer_holder div#footer_text_holder {position: relative;}
+
+div#footer_holder div#footer_text_holder p a {color: #555555;}
+
+/* ===================================================*/
+
+/* ==================== HOME STYLES ===================*/
+
+div#home_image_holder {width: 100%; height: 359px; overflow: hidden; position: relative;}
+div#home_image_holder div#home_image {position: relative;}
+div#home_menu_holder {position: absolute; z-index: 100; width: 140px; top: 565px;}
+div#home_pure_platinum {position: relative;margin-bottom: 35px;}
+div#home_pure_pleasure {float: right;}
+div#home_body_content {position: absolute; top: 958px;}
+
+#whatsNewHolder {position: absolute; right: 0; top: 565px;}
+
+/* ===================================================*/

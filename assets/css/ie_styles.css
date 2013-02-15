@@ -1,0 +1,20 @@
+/* ==================== MENU STYLES ===================*/
+
+div#left_menu_holder {left: 0px;}
+
+/* ===================================================*/
+
+
+/* ==================== CONTENT STYLES ===================*/
+
+div#body_content {left: 0px;}
+div#main_image div#pure_pleasure {position: absolute; z-index: 100; margin-left: 595px; bottom: 0; left: 0;}
+
+/* ===================================================*/
+
+/* ==================== HOME STYLES ===================*/
+
+div#home_menu_holder {left: 0px;}
+div#home_body_content {left: 0px;}
+
+/* ===================================================*/
