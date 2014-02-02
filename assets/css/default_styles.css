@@ -108,3 +108,11 @@ div#home_body_content {position: absolute; top: 958px;}
 #whatsNewHolder {position: absolute; right: 0; top: 565px;}
 
 /* ===================================================*/
+
+.product_image_holder img {
+	width: 350px;
+}
+
+.product_text_holder {
+	min-height: 300px;
+}
